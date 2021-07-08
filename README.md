@@ -6,5 +6,5 @@ This is an example app using expo and expo-dev-client to build a react native vi
 - Install the dependencies using `npm i`
 - Use `expo run:android` or `expo run:ios` (use a physical iOS device to test using XCode)
 
-
+You can start an expo dev server using `expo start --dev-client`
 
